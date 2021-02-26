@@ -1,5 +1,5 @@
 # Discord-bot
-A bot made by repl.it and py. MAinly an encouragment bot. Have fun when you get depressed
+A bot made by repl.it and py. MAinly an encouragment bot. Have fun when you get depressed :D
 
 ## Preview of the bot
 
